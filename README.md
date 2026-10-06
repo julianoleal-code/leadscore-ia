@@ -5,6 +5,14 @@
 > **Desafio de 1 Semana em Dupla**  
 > **Entrega:** 29/09/2026  
 
+[![Deploy Vercel](https://img.shields.io/badge/Deploy-Vercel-black?logo=vercel)](https://leadscore-ia-leal-code.vercel.app)
+[![Neon Database](https://img.shields.io/badge/Database-Neon_Postgres-00E599?logo=postgresql)](https://neon.tech)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-leadscore--ia-181717?logo=github)](https://github.com/julianoleal-code/leadscore-ia)
+
+🔗 **Aplicação no Ar:** [https://leadscore-ia-leal-code.vercel.app](https://leadscore-ia-leal-code.vercel.app)  
+📊 **Painel de Vendas:** [https://leadscore-ia-leal-code.vercel.app/painel](https://leadscore-ia-leal-code.vercel.app/painel)  
+📂 **Repositório:** [https://github.com/julianoleal-code/leadscore-ia](https://github.com/julianoleal-code/leadscore-ia)  
+
 ---
 
 ## 📋 Sumário
