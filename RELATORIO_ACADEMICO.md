@@ -220,3 +220,14 @@ Caso o projeto evolua para além do escopo de 1 semana do MVP:
 O projeto **LeadScore IA** cumpriu 100% dos requisitos estipulados no desafio prático da FAETERJ Barra Mansa. A aplicação vai além de um simples formulário ao integrar IA generativa como motor de decisão e produtividade no centro do fluxo de negócios de pequenas empresas.
 
 A utilização do Claude Code demonstrou o potencial de acelerar o ciclo de engenharia sem abrir mão de boas práticas: o código resultante apresenta TypeScript estrito, arquitetura desacoplada, tratamento de exceções resiliente, banco de dados relacional com integridade referencial e documentação integral.
+
+---
+
+## 11. Links Oficiais de Entrega
+
+- 📦 **Repositório GitHub:** [https://github.com/julianoleal-code/leadscore-ia](https://github.com/julianoleal-code/leadscore-ia)
+- 🌐 **Aplicação em Produção (Vercel):** [https://leadscore-ia-leal-code.vercel.app](https://leadscore-ia-leal-code.vercel.app)
+- 📊 **Painel Operacional de Vendas:** [https://leadscore-ia-leal-code.vercel.app/painel](https://leadscore-ia-leal-code.vercel.app/painel)
+- 🗄️ **Banco de Dados Relacional:** Neon Serverless PostgreSQL (`ep-muddy-cloud-b8qi1yst`)
+
+
