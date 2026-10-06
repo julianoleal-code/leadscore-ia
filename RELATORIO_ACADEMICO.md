@@ -11,8 +11,8 @@
 - **Professor Responsável:** Vinicius
 - **Modalidade:** Desafio Prático de 1 Semana em Dupla
 - **Integrantes da Dupla:**
-  - *Aluno(a) 1:* [Pessoa A — Responsável por Back-end, Banco de Dados e IA]
-  - *Aluno(a) 2:* [Pessoa B — Responsável por Front-end, Deploy e Documentação]
+  - *Aluno 1:* Juliano (Pessoa A — Responsável por Back-end, Banco de Dados e IA)
+  - *Aluno 2:* Luiz Marcelo (Pessoa B — Responsável por Front-end, Deploy e Documentação)
 - **Período do Desafio:** 22/09/2026 a 29/09/2026
 - **Data de Entrega:** 29 de Setembro de 2026
 
@@ -183,16 +183,16 @@ Estrutura obrigatória:
 
 O trabalho foi dividido seguindo estritamente as regras de cooperação estabelecidas pelo professor Vinicius:
 
-- **Pessoa A (Back-end, Banco e IA):**
-  - Implementação do schema Drizzle e configuração dos branches de desenvolvimento no NeonDB.
-  - Desenvolvimento do módulo `src/lib/analisarLead.ts` e orquestração da chamada da Claude API.
+- **Juliano (Pessoa A · Back-end, Banco e IA):**
+  - Implementação do schema Drizzle e configuração do Neon Serverless Postgres.
+  - Desenvolvimento do módulo `src/lib/analisarLead.ts` e orquestração da chamada da Claude API com Zod e retry.
   - Criação das rotas `POST /api/leads` e `POST /api/analisar/[leadId]`.
-  - Revisão técnica dos Pull Requests submetidos pela Pessoa B.
-- **Pessoa B (Front-end, Deploy e Documentação):**
-  - Criação da interface de captação de leads (`/`) e do painel do vendedor (`/painel`).
-  - Configuração do pipeline de deploy na Vercel e injeção de variáveis de ambiente.
+  - Revisão técnica e alinhamento dos componentes de dados.
+- **Luiz Marcelo (Pessoa B · Front-end, Deploy e Documentação):**
+  - Criação da interface de captação de leads (`/`) e do painel operacional do vendedor (`/painel`).
+  - Configuração do pipeline de deploy na Vercel e injeção de variáveis de ambiente de produção.
   - Elaboração da documentação técnica (`README.md`) e redação deste Relatório Acadêmico.
-  - Validação de experiência do usuário e testes em dispositivos móveis.
+  - Validação de experiência do usuário, testes responsivos e exportação CSV.
 
 ---
 

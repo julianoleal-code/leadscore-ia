@@ -168,8 +168,8 @@ Seguindo rigorosamente o roteiro pedagógico da FAETERJ Barra Mansa, o Claude Co
 
 | Integrante | Atribuições Principais |
 |---|---|
-| **Pessoa A (Back-end, Banco e IA)** | • Schema Drizzle, migrações e conexão NeonDB.<br/>• Rota de análise `POST /api/analisar/[leadId]`.<br/>• System prompt do classificador B2B, validação Zod e estratégia de retry.<br/>• Revisão de Pull Requests da Pessoa B. |
-| **Pessoa B (Front-end, Deploy e Docs)** | • Formulário de captação (`/`) e Painel operacional (`/painel`).<br/>• Integração do front-end com as rotas de API.<br/>• Deploy na Vercel e configuração das variáveis de ambiente de produção.<br/>• Elaboração do README, Relatório Acadêmico e gravação da demo. |
+| **Juliano (Pessoa A · Back-end, Banco e IA)** | • Schema Drizzle, migrações e conexão com Neon Serverless Postgres.<br/>• Rota de análise `POST /api/analisar/[leadId]` e `POST /api/leads`.<br/>• System prompt do classificador B2B, validação Zod e estratégia de retry.<br/>• Revisão e integridade do banco de dados relacional. |
+| **Luiz Marcelo (Pessoa B · Front-end, Deploy e Docs)** | • Formulário de captação (`/`) e Painel operacional (`/painel`).<br/>• Integração do front-end com as rotas de API.<br/>• Deploy na Vercel e configuração das variáveis de ambiente de produção.<br/>• Elaboração do README, Relatório Acadêmico e testes de UX. |
 
 ---
 
